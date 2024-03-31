@@ -1,0 +1,15 @@
+
+
+.number {
+    font-size: 20px;
+    background-color: rgb(149, 225, 225);
+    margin: 15px;
+    margin-bottom: 30px;
+    border-radius: 15px;
+    padding: 5px;
+   
+}
+
+.operation {
+    font-size: 25px;
+}
